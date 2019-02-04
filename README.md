@@ -12,7 +12,7 @@ Para rodar o projeto localhost siga esses passos (importante estar usando Wamp S
 
 4. Após clonar o projeto, crie um banco de dados com o nome "teste-madeira" e faça o import do banco que se encontra na pasta "sql_dump" com o nome teste-madeira.sql
 
-5. O banco desde projeto está com o usuario root e sem senha, caso esteja diferente no seu altere p arquivo da pasta "api\Api.php"
+5. O banco desde projeto está com o usuario root e sem senha, caso esteja diferente no seu altere os dados no arquivo da pasta "api\Api.php"
 
 6. Após importar o banco e configurar o usuário em api/api.php você já pode ver o frontend e o admin que fica nesse caminho:
 
